@@ -1,6 +1,6 @@
 # ReaderApp
 
-1.SDWebImage
+1.SDWebImage%20
 Used to load and cache images asynchronously from remote URLs in UIImageView.
 
 Example usage:
